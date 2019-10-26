@@ -43,9 +43,9 @@ test-suite.log
 
 /hwloc.pc
 
-/include/hwloc/autogen/config.h
+#/include/hwloc/autogen/config.h
 /include/hwloc/autogen/stamp-h?
-/include/private/autogen/config.h
+#/include/private/autogen/config.h
 /include/private/autogen/config.h.in
 /include/private/autogen/stamp-h?
 
@@ -68,7 +68,7 @@ test-suite.log
 /doc/examples/*.log
 /doc/examples/*.trs
 
-/hwloc/static-components.h
+#/hwloc/static-components.h
 /hwloc/libhwloc.la
 /hwloc/libhwloc_embedded.la
 
